@@ -1,2 +1,3 @@
 # resume
-My CV/resume in Markdown
+
+I'm not looking for a job right now. Thank you!
